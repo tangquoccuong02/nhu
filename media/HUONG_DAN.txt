@@ -1,0 +1,6 @@
+THƯ MỤC NHẠC - đặt các file MP3 tại đây, giữ đúng tên:
+
+nhac-tro-choi.mp3  -> nhạc nền từ lúc mở thư, xuyên suốt 3 trò chơi và các màn quà. Nhạc dừng khi chuyển đến màn “Cảm ơn Như”.
+loi-nhan.mp3       -> nhạc mới, chỉ phát khi bấm “Mở chiếc hộp kỷ niệm” để vào màn trái tim và 5 ảnh kỷ niệm.
+
+Nếu muốn dùng file có tên khác, mở file HTML và sửa các đường dẫn trong phần const TRACKS ở đầu script.
