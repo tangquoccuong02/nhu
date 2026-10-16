@@ -1,0 +1,12 @@
+THƯ MỤC ẢNH - đặt ảnh của bạn tại đây, giữ đúng tên file:
+
+qua-1.jpg         -> ảnh quà đầu tiên.
+qua-2.jpg         -> ảnh quà thứ hai.
+qua-3.jpg         -> ảnh quà thứ ba.
+ky-niem-1.jpg     -> ảnh kỷ niệm phía trên bên trái.
+ky-niem-2.jpg     -> ảnh kỷ niệm phía trên bên phải.
+ky-niem-3.jpg     -> ảnh kỷ niệm bên trái.
+ky-niem-4.jpg     -> ảnh kỷ niệm bên phải.
+ky-niem-5.jpg     -> ảnh kỷ niệm phía dưới trái tim.
+
+Chó con và hình Hello đã được nhúng thẳng vào file HTML nên không cần chép thêm SVG. Ảnh nào chưa có sẽ tự hiển thị ô gợi ý.
